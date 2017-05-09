@@ -1,0 +1,10 @@
+setuptools>=26.1.1
+pip>=8.1.2
+Django==1.10.5
+MySQL-python==1.2.5
+pillow==3.3.0
+qrcode==5.3
+celery==3.1.23
+flower==0.9.1
+raven==5.27.1
+django-bootstrap-pagination==1.6.2
